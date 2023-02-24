@@ -1,4 +1,6 @@
 {
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "mypy.debugLogging": true,
+    "mypy.runUsingActiveInterpreter": true
 }
